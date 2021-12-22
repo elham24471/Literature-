@@ -1,5 +1,5 @@
 # Literature-
-Summaries of paper I am going to read as a PhD student.
+Summaries of papers I have already read during my research as a PhD student.
 
 ## Index
 - [All Papers](#all-papers)
@@ -12,6 +12,4 @@ Summaries of paper I am going to read as a PhD student.
 - [Deep Learning](Deep-learning)
 - [Optimal Control](#optimal-control)
 - [Adaptive Control](#daptive-control)
-
-
 
