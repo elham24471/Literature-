@@ -2,6 +2,13 @@
 Summaries of paper I am going to read as a PhD student.
 
 ## Index
+- [All Papers](#all-papers)
+- [Uncertainty Estimation](#uncertainty-estimation)
+- - [Ensembling](#ensembling)
+- - [Stochastic Gradient MCMC](#stochastic-gradient-mcmc)
+- - [Variational Inference](#variational-inference)
+
+
 -[All Papers](#all-papers)
 -[System Identification](#system-identification)
 --[Robust System Identification](#robust-system-identification)
