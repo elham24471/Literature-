@@ -23,6 +23,6 @@ Summaries of papers I have already read during my research as a PhD student.
 #### Papers read in 2021 
 
 ##### [21-12-22] [paper#1]
--Learning nonlinear state-space models using deep autoencoders
+- Learning nonlinear state-space models using deep autoencoders
 [[pdf]](https://ieeexplore.ieee.org/document/8619475)
 - *Daniele Masti; Alberto Bemporad*
