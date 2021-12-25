@@ -24,7 +24,7 @@ Summaries of papers I have already read during my research as a PhD student.
 
 ##### [21-12-22] [paper#1]
 - Learning nonlinear state-space models using deep autoencoders
-[[pdf]](https://ieeexplore.ieee.org/document/8619475)
+[[pdf]](https://ieeexplore.ieee.org/document/8619475) [[Summary]](https://github.com/elham24471/Literature-/blob/main/Summary%20of%20paper%231.pdf)
 - *Daniele Masti; Alberto Bemporad*
 - [[System Identification]](#system-identification) [[Deep Learning]](#deep-learning)
-- ``` very well-written and useful. Trying to impelemnt it myslef to gain a better understanding of SSM and AEs.```
+- ``` very well-written and useful. Trying to impelemnt it to gain a better understanding of SSM and AEs.```
