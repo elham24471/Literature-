@@ -12,6 +12,7 @@ Summaries of papers I have already read during my research as a PhD student.
 - [Deep Learning](Deep-learning)
 - [Optimal Control](#optimal-control)
 - [Adaptive Control](#daptive-control)
+- [Fluid Resuscitation](#fluid-resuscitation)
 
 ****
 
@@ -21,7 +22,7 @@ Summaries of papers I have already read during my research as a PhD student.
 - [Papers read in 2021](#papers-read-in-2021)
 - [papers read in 2020](#papers-read-in-2020)
 
-#### Papers read in 2021(#papers-read-in-2021)
+#### [Papers read in 2021](#papers-read-in-2021)
 
 ##### [20-12-21] [paper#1]
 - Control Oriented Modeling and Identification of Nonlinear Systems
@@ -53,6 +54,14 @@ Summaries of papers I have already read during my research as a PhD student.
 - [[System Identification]](#system-identification) [[Deep Learning]](#deep-learning)
 - ```very well-written and useful. trying to understand the code and use the function for my own purpose```
 
-#### Papers read in 2022(#papers-read-in-2022)
+#### [Papers read in 2022](#papers-read-in-2022)
 
 ##### [2-1-22] [paper#5]
+- Fluid resuscitation in paediatric burns: how do we get it right? A systematic review of the evidence
+- [[pdf]](https://pubmed.ncbi.nlm.nih.gov/30262511/)
+- *Christopher Stutchfield, Anna Davies, Amber Young*
+- [[Fluid Resuscitation]](#fluid-resuscitation)
+- ```A review paper, mostly about different kinds of endpoints used in fluid resuscitation.```
+- ```Three endpoints: 1)UO with vital signs 2)albumin 3)haemodynamic variables.```
+- ```There is no significant conclusion about which endoint is better. They made just a comparison.```
+- ```A good source when it comes to writting a literature review.```
