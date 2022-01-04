@@ -33,7 +33,7 @@ Summaries of papers I have already read during my research as a PhD student.
 - ```Practical for identification using frequency domain analysis where small number of points in iteration identification are needed.```
 
 ##### [21-12-21] [paper#2]
-- Learning nonlinear state-space models using deep autoencoders. [[pdf]](https://ieeexplore.ieee.org/document/8619475) [[Summary]](https://github.com/elham24471/Literature-/blob/main/Summary%20of%20paper%231.pdf)
+- Learning nonlinear state-space models using deep autoencoders. [[pdf]](https://ieeexplore.ieee.org/document/8619475) [[Summary]](https://github.com/elham24471/Literature-/blob/main/Symmaries/Summary%20of%20paper%232.pdf)
 - *Daniele Masti; Alberto Bemporad*
 - [[System Identification]](#system-identification) [[Deep Learning]](#deep-learning)
 - ``` very well-written and useful. Trying to impelemnt it to gain a better understanding of SSM and AEs.```
@@ -53,7 +53,7 @@ Summaries of papers I have already read during my research as a PhD student.
 #### [Papers read in 2022](#papers-read-in-2022)
 
 ##### [2-1-22] [paper#5]
-- Fluid resuscitation in paediatric burns: how do we get it right? A systematic review of the evidence. [[pdf]](https://pubmed.ncbi.nlm.nih.gov/30262511/)
+- Fluid resuscitation in paediatric burns: how do we get it right? A systematic review of the evidence. [[pdf]](https://pubmed.ncbi.nlm.nih.gov/30262511/) [[Summary]](https://github.com/elham24471/Literature-/blob/main/Symmaries/Summary%20of%20paper%235.pdf)
 - *Christopher Stutchfield, Anna Davies, Amber Young*
 - [[Fluid Resuscitation]](#fluid-resuscitation)
 - ```A review paper, mostly about different kinds of endpoints used in fluid resuscitation.```
