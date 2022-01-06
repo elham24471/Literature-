@@ -39,7 +39,7 @@ Summaries of papers I have already read during my research as a PhD student.
 - ``` very well-written and useful. Trying to impelemnt it to gain a better understanding of SSM and AEs.```
 
 ##### [24-12-21] [paper#3]
-- **Structured Inference Networks for Nonlinear State Space Models.** [[pdf]](https://arxiv.org/abs/1609.09869) [[code]](https://github.com/clinicalml/structuredinference)
+- **Structured Inference Networks for Nonlinear State Space Models.** [[pdf]](https://arxiv.org/abs/1609.09869) [[code]](https://github.com/clinicalml/structuredinference) [[Summary]](https://github.com/elham24471/Literature-/blob/main/Symmaries/Summary%20of%20paper%233.pdf)
 - *Rahul G. Krishnan, Uri Shalit, David Sontag*
 - [[System Identification]](#system-identification) [[Deep Learning]](#deep-learning)
 - ```Useful but HARD TO FOLLOW```
