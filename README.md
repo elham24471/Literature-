@@ -60,3 +60,13 @@ Summaries of papers I have already read during my research as a PhD student.
 - ```Three endpoints: 1)UO with vital signs 2)albumin 3)haemodynamic variables.```
 - ```There is no significant conclusion about which endoint is better. They made just a comparison.```
 - ```A good source when it comes to writting a literature review.```
+
+##### [7-1-22] [paper#6]
+- **Convex Optimization In Identification Of Stable Non-Linear State Space Models** [[pdf]](https://www.researchgate.net/publication/46583979_Convex_Optimization_In_Identification_Of_Stable_Non-Linear_State_Space_Models) [[Summary]](https://github.com/elham24471/Literature-/blob/main/Symmaries/Sammary%20of%20paper%236.docx) [[Code]](https://github.com/elham24471/Literature-/blob/main/Symmaries/spot_manual.pdf)
+- *Mark M. Tobenkin, Ian R. Manchester, Jennifer Wang, Alexandre Megretski, Russ Tedrake1*
+- [[System Identification]](#system-identification)[[Robust System Identification]](#robust-system-identification)
+
+##### [8-1-22] [paper#7]
+- **Individualized Goal-Directed Therapy: The Challenge With the Fluids** [[pdf]](https://journals.lww.com/anesthesia-analgesia/Fulltext/2020/03000/Individualized_Goal_Directed_Therapy__The.8.aspx) [[highlited pdf]](https://github.com/elham24471/Literature-/blob/main/Highlited%20pdfs/Individualized_Goal_Directed_Therapy__The.8.pdf)
+- *Tim G. Kampmeier, PhD, and Christian Ertmer, PhD*
+- [[Fluid Resuscitation]](#fluid-resuscitation) 
