@@ -82,12 +82,6 @@ Summaries of papers I have already read during my research as a PhD student.
 - [Robust System Identification](#robust-system-identification)
 - [Nonlinear State Space Models](#nonlinear-state-space-models)
 
-##### [28-12-21] [paper#4]
-- **Deep State Space Models for Nonlinear System Identification.** [[pdf]](https://arxiv.org/abs/2003.14162) [[code]](https://github.com/dgedon/DeepSSM_SysID)
-- *Daniel Gedon, Niklas Wahlström, Thomas B. Schön, Lennart Ljung*
-- [[System Identification]](#system-identification) [[Deep Learning]](#deep-learning)
-- ```very well-written and useful. trying to understand the code and use the function for my own purpose```
-
 ##### [20-12-21] [paper#1]
 - **Control Oriented Modeling and Identification of Nonlinear Systems.** [[pdf]](https://www.scientific.net/AMM.841.330)
 - *Ali Emami,  Afshin Banazadeh*
@@ -110,6 +104,12 @@ Summaries of papers I have already read during my research as a PhD student.
 - *Mariela Cerrada, Jose Aguilar*
 - [[Reinforcement Learning]](#reinforcement-learning) [[System Identification]](#system-identification)
 - ``` Online learning based on RL algorithm is used for identification of nonlinear System```
+
+##### [28-12-21] [paper#4]
+- **Deep State Space Models for Nonlinear System Identification.** [[pdf]](https://arxiv.org/abs/2003.14162) [[code]](https://github.com/dgedon/DeepSSM_SysID)
+- *Daniel Gedon, Niklas Wahlström, Thomas B. Schön, Lennart Ljung*
+- [[System Identification]](#system-identification) [[Deep Learning]](#deep-learning)
+- ```very well-written and useful. trying to understand the code and use the function for my own purpose```
 
 ##### [24-12-21] [paper#3]
 - **Structured Inference Networks for Nonlinear State Space Models.** [[pdf]](https://arxiv.org/abs/1609.09869) [[code]](https://github.com/clinicalml/structuredinference) [[Summary]](https://github.com/elham24471/Literature-/blob/main/Symmaries/Summary%20of%20paper%233.pdf)
