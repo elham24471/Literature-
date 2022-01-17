@@ -4,14 +4,9 @@ Summaries of papers I have already read during my research as a PhD student.
 ## Index
 - [All Papers](#all-papers)
 - [System Identification](#system-identification)
-- - [Robust System Identification](#robust-system-identification)
-- - [Nonlinear State Space Models](#nonlinear-state-space-models)
 - [Reinforcement Learning](#reinforcement-learning)
-- - [Integral Reinforcement Learning](#integral-reinforcement-learning)
-- - [Deep Reinforcement Learning](#deep-reinforcement-learning)
-- [Deep Learning](Deep-learning)
-- [Optimal Control](#optimal-control)
-- [Adaptive Control](#adaptive-control)
+- [Deep Learning](#Deep-learning)
+- [Data-Driven Control](#data-driven-control)
 - [Fluid Resuscitation](#fluid-resuscitation)
 
 ****
@@ -23,6 +18,37 @@ Summaries of papers I have already read during my research as a PhD student.
 - [Papers read in 2020](#papers-read-in-2020)
 
 #### [Papers read in 2022](#papers-read-in-2022)
+
+##### [14-1-22] [paper#13]
+- **Probabilistic Robust Autoencoders for Anomaly Detection** [[pdf]](https://arxiv.org/abs/2110.00494)
+- *Y Aizenbud, O Lindenbaum, Y Kluger*
+- [[Deep Learning]](#deep-learning)
+
+##### [13-1-22] [paper#12]
+- **Learning Robust Auto-Encoders With Regularizer for Linearity and Sparsity** [[pdf]](https://ieeexplore.ieee.org/abstract/document/8630910)
+- *Y Shi, M Lei, R Ma, L Niu*
+- [[Deep Learning]](#deep-learning)
+- ``` need to be studied in more details.```
+
+##### [13-1-22] [paper#11]
+- **A recurrent neural network approach to predicting hemoglobin trajectories in patients with End-Stage Renal Disease** [[pdf]](https://www.sciencedirect.com/science/article/pii/S0933365719307304)
+- *Benjamin Loboa, Emaad Abdel, Rahmanc Donald, Browna Lori, Dunnb Brendan Bowmanc*
+- [[Deep Learning]](#deep-learning)
+- ``` In this work the hemoglobin predictions are patient specific, and they are predicted using a recurrent neural network.```
+- ``` this work is just a machine learning method, No mathematical model or control strategy is used.```
+
+##### [12-1-22] [paper#10]
+- **Reinforcement Learning-based Control of Tumor Growth under Anti-angiogenic Therapy** [[pdf]](https://www.sciencedirect.com/science/article/abs/pii/S016926071831887X)
+- *Parisa Yazdjerdi, Nader Meskin, Mohammad Al-Naemi, Ala-Eddin Al Moustafa, Levente Kov«acs*
+- [[Reinforcement Learning]](#reinfocement-learning) [[Data-Driven Control]](#data-driven-control)
+- ``` Same approach as papaer #9 for another mathematical model of cancer.```
+
+##### [10-1-22] [paper#9]
+- **Reinforcement learning-based control of drug dosing for cancer chemotherapy treatment** [[pdf]](https://www.sciencedirect.com/science/article/abs/pii/S0025556417304327)
+- *Regina Padmanabhana, NaderMeskinaWassim, M.Haddadb*
+- [[Reinforcement Learning]](#reinfocement-learning) [[Data-Driven Control]](#data-driven-control)
+- ```They used a mathematical model as an environment for RL, where Tumor cells and chemotherapy drug are states and actions of the environment, respectively.```
+- ```An online learning approach, which means we need the mathematical model of the system anyway.```
 
 ##### [9-1-22] [paper#8]
 - **Reinforcement Learning in System Identification** [[pdf]](https://www.researchgate.net/publication/221786764_Reinforcement_Learning_in_System_Identification) [[Summary]](https://github.com/elham24471/Literature-/blob/main/Symmaries/Summary%20of%20paper%238.pdf)
@@ -38,7 +64,7 @@ Summaries of papers I have already read during my research as a PhD student.
 ##### [7-1-22] [paper#6]
 - **Convex Optimization In Identification Of Stable Non-Linear State Space Models** [[pdf]](https://www.researchgate.net/publication/46583979_Convex_Optimization_In_Identification_Of_Stable_Non-Linear_State_Space_Models) [[Summary]](https://github.com/elham24471/Literature-/blob/main/Symmaries/Sammary%20of%20paper%236.docx) [[Code]](https://github.com/elham24471/Literature-/blob/main/Symmaries/spot_manual.pdf)
 - *Mark M. Tobenkin, Ian R. Manchester, Jennifer Wang, Alexandre Megretski, Russ Tedrake1*
-- [[System Identification]](#system-identification)[[Robust System Identification]](#robust-system-identification)
+- [[System Identification]](#system-identification)
 
 ##### [2-1-22] [paper#5]
 - **Fluid resuscitation in paediatric burns: how do we get it right? A systematic review of the evidence.** [[pdf]](https://pubmed.ncbi.nlm.nih.gov/30262511/) [[Summary]](https://github.com/elham24471/Literature-/blob/main/Symmaries/Summary%20of%20paper%235.pdf)
@@ -78,11 +104,7 @@ Summaries of papers I have already read during my research as a PhD student.
 - ```Didn't find it useful for my purpose.```
 - ```Practical for identification using frequency domain analysis where small number of points in iteration identification are needed.```
 
-
 ### [System Identification](#system-identification)
-
-- [Robust System Identification](#robust-system-identification)
-- [Nonlinear State Space Models](#nonlinear-state-space-models)
 
 ##### [20-12-21] [paper#1]
 - **Control Oriented Modeling and Identification of Nonlinear Systems.** [[pdf]](https://www.scientific.net/AMM.841.330)
@@ -92,14 +114,10 @@ Summaries of papers I have already read during my research as a PhD student.
 - ```Didn't find it useful for my purpose.```
 - ```Practical for identification using frequency domain analysis where small number of points in iteration identification are needed.```
 
-#### [Robust System Identification](#robust-system-identification)
-
 ##### [7-1-22] [paper#6]
 - **Convex Optimization In Identification Of Stable Non-Linear State Space Models** [[pdf]](https://www.researchgate.net/publication/46583979_Convex_Optimization_In_Identification_Of_Stable_Non-Linear_State_Space_Models) [[Summary]](https://github.com/elham24471/Literature-/blob/main/Symmaries/Sammary%20of%20paper%236.docx) [[Code]](https://github.com/elham24471/Literature-/blob/main/Symmaries/spot_manual.pdf)
 - *Mark M. Tobenkin, Ian R. Manchester, Jennifer Wang, Alexandre Megretski, Russ Tedrake1*
 - [[System Identification]](#system-identification)[[Robust System Identification]](#robust-system-identification)
-
-#### [Nonlinear State Space Models](#nonlinear-state-space-models)
 
 ##### [9-1-22] [paper#8]
 - **Reinforcement Learning in System Identification** [[pdf]](https://www.researchgate.net/publication/221786764_Reinforcement_Learning_in_System_Identification) [[Summary]](https://github.com/elham24471/Literature-/blob/main/Symmaries/Summary%20of%20paper%238.pdf)
@@ -127,8 +145,18 @@ Summaries of papers I have already read during my research as a PhD student.
 
 ### [Reinforcement Learning](#reinforcement-learning)
 
-- [Integral Reinforcement Learning](#integral-reinforcement-learning)
-- [Deep Reinforcement Learning](#deep-reinforcement-learning)
+##### [12-1-22] [paper#10]
+- **Reinforcement Learning-based Control of Tumor Growth under Anti-angiogenic Therapy** [[pdf]](https://www.sciencedirect.com/science/article/abs/pii/S016926071831887X)
+- *Parisa Yazdjerdi, Nader Meskin, Mohammad Al-Naemi, Ala-Eddin Al Moustafa, Levente Kov«acs*
+- [[Reinforcement Learning]](#reinfocement-learning) [[Data-Driven Control]](#data-driven-control)
+- ``` Same approach as papaer #9 for another mathematical model of cancer.```
+
+##### [10-1-22] [paper#9]
+- **Reinforcement learning-based control of drug dosing for cancer chemotherapy treatment** [[pdf]](https://www.sciencedirect.com/science/article/abs/pii/S0025556417304327)
+- *Regina Padmanabhana, NaderMeskinaWassim, M.Haddadb*
+- [[Reinforcement Learning]](#reinfocement-learning) [[Data-Driven Control]](#data-driven-control)
+- ```They used a mathematical model as an environment for RL, where Tumor cells and chemotherapy drug are states and actions of the environment, respectively.```
+- ```An online learning approach, which means we need the mathematical model of the system anyway.```
 
 ##### [9-1-22] [paper#8]
 - **Reinforcement Learning in System Identification** [[pdf]](https://www.researchgate.net/publication/221786764_Reinforcement_Learning_in_System_Identification) [[Summary]](https://github.com/elham24471/Literature-/blob/main/Symmaries/Summary%20of%20paper%238.pdf)
@@ -136,10 +164,25 @@ Summaries of papers I have already read during my research as a PhD student.
 - [[Reinforcement Learning]](#reinforcement-learning) [[System Identification]](#system-identification)
 - ``` Online learning based on RL algorithm is used for identification of nonlinear System```
 
-#### [Integral Reinforcement Learning](#integral-reinforcement-learning)
-#### [Deep Reinforcement Learning](#deep-reinforcement-learning)
-
 ### [Deep Learning](Deep-learning)
+
+##### [14-1-22] [paper#13]
+- **Probabilistic Robust Autoencoders for Anomaly Detection** [[pdf]](https://arxiv.org/abs/2110.00494)
+- *Y Aizenbud, O Lindenbaum, Y Kluger*
+- [[Deep Learning]](#deep-learning)
+
+##### [13-1-22] [paper#12]
+- **Learning Robust Auto-Encoders With Regularizer for Linearity and Sparsity** [[pdf]](https://ieeexplore.ieee.org/abstract/document/8630910)
+- *Y Shi, M Lei, R Ma, L Niu*
+- [[Deep Learning]](#deep-learning)
+- ``` need to be studied in more details.```
+
+##### [13-1-22] [paper#11]
+- **A recurrent neural network approach to predicting hemoglobin trajectories in patients with End-Stage Renal Disease** [[pdf]](https://www.sciencedirect.com/science/article/pii/S0933365719307304)
+- *Benjamin Loboa, Emaad Abdel, Rahmanc Donald, Browna Lori, Dunnb Brendan Bowmanc*
+- [[Deep Learning]](#deep-learning)
+- ``` In this work the hemoglobin predictions are patient specific, and they are predicted using a recurrent neural network.```
+- ``` this work is just a machine learning method, No mathematical model or control strategy is used.```
 
 ##### [28-12-21] [paper#4]
 - **Deep State Space Models for Nonlinear System Identification.** [[pdf]](https://arxiv.org/abs/2003.14162) [[code]](https://github.com/dgedon/DeepSSM_SysID)
@@ -159,8 +202,21 @@ Summaries of papers I have already read during my research as a PhD student.
 - [[System Identification]](#system-identification) [[Deep Learning]](#deep-learning)
 - ``` very well-written and useful. Trying to impelemnt it to gain a better understanding of SSM and AEs.```
 
-### [Optimal Control](#optimal-control)
-### [Adaptive Control](#adaptive-control)
+### [Data-Driven Control](#data-driven-control)
+
+##### [12-1-22] [paper#10]
+- **Reinforcement Learning-based Control of Tumor Growth under Anti-angiogenic Therapy** [[pdf]](https://www.sciencedirect.com/science/article/abs/pii/S016926071831887X)
+- *Parisa Yazdjerdi, Nader Meskin, Mohammad Al-Naemi, Ala-Eddin Al Moustafa, Levente Kov«acs*
+- [[Reinforcement Learning]](#reinfocement-learning) [[Data-Driven Control]](#data-driven-control)
+- ``` Same approach as papaer #9 for another mathematical model of cancer.```
+
+##### [10-1-22] [paper#9]
+- **Reinforcement learning-based control of drug dosing for cancer chemotherapy treatment** [[pdf]](https://www.sciencedirect.com/science/article/abs/pii/S0025556417304327)
+- *Regina Padmanabhana, NaderMeskinaWassim, M.Haddadb*
+- [[Reinforcement Learning]](#reinfocement-learning) [[Data-Driven Control]](#data-driven-control)
+- ```They used a mathematical model as an environment for RL, where Tumor cells and chemotherapy drug are states and actions of the environment, respectively.```
+- ```An online learning approach, which means we need the mathematical model of the system anyway.```
+
 ### [Fluid Resuscitation](#fluid-resuscitation)
 
 ##### [8-1-22] [paper#7]
