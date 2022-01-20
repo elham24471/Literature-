@@ -21,7 +21,7 @@ Summaries of papers I have already read during my research as a PhD student.
 #### [Papers read in 2022](#papers-read-in-2022)
 
 ##### [18-1-22] [paper#14]
-- **Time Series Data Augmentation for Deep Learning: A Survey** [[pdf]](https://arxiv.org/abs/2002.12478)
+- **Time Series Data Augmentation for Deep Learning: A Survey** [[pdf]](https://arxiv.org/abs/2002.12478) [[Annotated pdf]](https://github.com/elham24471/Literature-/blob/main/Annotated%20pdfs/annotated%20pdf%20Article%20%2314.pdf)
 - *Qingsong Wen, Liang Sun, Fan Yang, Xiaomin Song, Jingkun Gao, Xue Wang, Huan Xu*
 - [[Deep Learning]](#deep-learning) [[Data Augmentation]](#data-augmentation)
 - ```Very well-written and well-organized.```
@@ -66,7 +66,7 @@ Summaries of papers I have already read during my research as a PhD student.
 - ``` Online learning based on RL algorithm is used for identification of nonlinear System```
 
 ##### [8-1-22] [paper#7]
-- **Individualized Goal-Directed Therapy: The Challenge With the Fluids** [[pdf]](https://journals.lww.com/anesthesia-analgesia/Fulltext/2020/03000/Individualized_Goal_Directed_Therapy__The.8.aspx) [[highlited pdf]](https://github.com/elham24471/Literature-/blob/main/Highlited%20pdfs/Individualized_Goal_Directed_Therapy__The.8.pdf)
+- **Individualized Goal-Directed Therapy: The Challenge With the Fluids** [[pdf]](https://journals.lww.com/anesthesia-analgesia/Fulltext/2020/03000/Individualized_Goal_Directed_Therapy__The.8.aspx) [[Annotated pdf]](https://github.com/elham24471/Literature-/blob/main/Annotated%20pdfs/annotated%20pdf%20Article%20%237.pdf)
 - *Tim G. Kampmeier, PhD, and Christian Ertmer, PhD*
 - [[Fluid Resuscitation]](#fluid-resuscitation) 
 
@@ -236,7 +236,7 @@ Summaries of papers I have already read during my research as a PhD student.
 ### [Fluid Resuscitation](#fluid-resuscitation)
 
 ##### [8-1-22] [paper#7]
-- **Individualized Goal-Directed Therapy: The Challenge With the Fluids** [[pdf]](https://journals.lww.com/anesthesia-analgesia/Fulltext/2020/03000/Individualized_Goal_Directed_Therapy__The.8.aspx) [[highlited pdf]](https://github.com/elham24471/Literature-/blob/main/Highlited%20pdfs/Individualized_Goal_Directed_Therapy__The.8.pdf)
+- **Individualized Goal-Directed Therapy: The Challenge With the Fluids** [[pdf]](https://journals.lww.com/anesthesia-analgesia/Fulltext/2020/03000/Individualized_Goal_Directed_Therapy__The.8.aspx) [[Annotated pdf]](https://github.com/elham24471/Literature-/blob/main/Annotated%20pdfs/annotated%20pdf%20Article%20%237.pdf)
 - *Tim G. Kampmeier, PhD, and Christian Ertmer, PhD*
 - [[Fluid Resuscitation]](#fluid-resuscitation) 
 
@@ -252,7 +252,7 @@ Summaries of papers I have already read during my research as a PhD student.
 ### [Data Augmentation](#data-augmentation)
 
 ##### [18-1-22] [paper#14]
-- **Time Series Data Augmentation for Deep Learning: A Survey** [[pdf]](https://arxiv.org/abs/2002.12478)
+- **Time Series Data Augmentation for Deep Learning: A Survey** [[pdf]](https://arxiv.org/abs/2002.12478)[[Annotated pdf]](https://github.com/elham24471/Literature-/blob/main/Annotated%20pdfs/annotated%20pdf%20Article%20%2314.pdf)
 - *Qingsong Wen, Liang Sun, Fan Yang, Xiaomin Song, Jingkun Gao, Xue Wang, Huan Xu*
 - [[Deep Learning]](#deep-learning) [[Data Augmentation]](#data-augmentation)
 - ```Very well-written and well-organized```
