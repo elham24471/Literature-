@@ -5,9 +5,10 @@ Summaries of papers I have already read during my research as a PhD student.
 - [All Papers](#all-papers)
 - [System Identification](#system-identification)
 - [Reinforcement Learning](#reinforcement-learning)
-- [Deep Learning](#Deep-learning)
+- [Deep Learning](#deep-learning)
 - [Data-Driven Control](#data-driven-control)
 - [Fluid Resuscitation](#fluid-resuscitation)
+- [[Data Augmentation]](#data-augmentation)
 
 ****
 
@@ -18,6 +19,14 @@ Summaries of papers I have already read during my research as a PhD student.
 - [Papers read in 2020](#papers-read-in-2020)
 
 #### [Papers read in 2022](#papers-read-in-2022)
+
+##### [18-1-22] [paper#14]
+- **Time Series Data Augmentation for Deep Learning: A Survey** [[pdf]](https://arxiv.org/abs/2002.12478)
+- *Qingsong Wen, Liang Sun, Fan Yang, Xiaomin Song, Jingkun Gao, Xue Wang, Huan Xu*
+- [[Deep Learning]](#deep-learning) [[Data Augmentation]](#data-augmentation)
+- ```Very well-written and well-organized.```
+- ```Different methods to duplicate (or increase) the whole time-series. For example, if we have samples for 10 subjects, these methods help us to have samples for 30 subjects.```
+- ```But, I need some method to increase the samples in one time-series, like interpolation```
 
 ##### [14-1-22] [paper#13]
 - **Probabilistic Robust Autoencoders for Anomaly Detection** [[pdf]](https://arxiv.org/abs/2110.00494)
@@ -164,7 +173,14 @@ Summaries of papers I have already read during my research as a PhD student.
 - [[Reinforcement Learning]](#reinforcement-learning) [[System Identification]](#system-identification)
 - ``` Online learning based on RL algorithm is used for identification of nonlinear System```
 
-### [Deep Learning](Deep-learning)
+### [Deep Learning](#deep-learning)
+
+##### [18-1-22] [paper#14]
+- **Time Series Data Augmentation for Deep Learning: A Survey** [[pdf]](https://arxiv.org/abs/2002.12478)
+- *Qingsong Wen, Liang Sun, Fan Yang, Xiaomin Song, Jingkun Gao, Xue Wang, Huan Xu*
+- [[Deep Learning]](#deep-learning) [[Data Augmentation]](#data-augmentation)
+- ```Very well-written and well-organized```
+- ```ways to duplicate the whole time-series. I need some method to increase the samples in one time-series, like interpolation```
 
 ##### [14-1-22] [paper#13]
 - **Probabilistic Robust Autoencoders for Anomaly Detection** [[pdf]](https://arxiv.org/abs/2110.00494)
@@ -232,3 +248,12 @@ Summaries of papers I have already read during my research as a PhD student.
 - ```Three endpoints: 1)UO with vital signs 2)albumin 3)haemodynamic variables.```
 - ```There is no significant conclusion about which endoint is better. They made just a comparison.```
 - ```A good source when it comes to writting a literature review.```
+
+### [Data Augmentation](#data-augmentation)
+
+##### [18-1-22] [paper#14]
+- **Time Series Data Augmentation for Deep Learning: A Survey** [[pdf]](https://arxiv.org/abs/2002.12478)
+- *Qingsong Wen, Liang Sun, Fan Yang, Xiaomin Song, Jingkun Gao, Xue Wang, Huan Xu*
+- [[Deep Learning]](#deep-learning) [[Data Augmentation]](#data-augmentation)
+- ```Very well-written and well-organized```
+- ```ways to duplicate the whole time-series. I need some method to increase the samples in one time-series, like interpolation```
